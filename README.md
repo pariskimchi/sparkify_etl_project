@@ -3,7 +3,7 @@
 
 ### INTRO 
 
-Using Sparkify dataset, I developped a data pipeline that create 
+Using Sparkify dataset, I build a ETL pipeline that create 
 data lake and data warehouse on AWS S3 and Redshift. 
 
 ### Dataset
